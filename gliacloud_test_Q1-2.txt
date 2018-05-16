@@ -1,0 +1,17 @@
+Q1-2.
+
+1.when we consider both precision and recall for an imbalance dataset
+
+2.when extremum is always occured, it's harmness for some activation function
+
+3. bias means the fitting result between model and training samples, while variance means between model and testing samples. There is a tradeoff between them for model complexity issue
+
+4.when using it in bootstrapped method, overfitting may be resulted  
+
+5.normalize the categorical data in same range for feature augmented and sparse matrix purpose
+
+6. more data, early stop, dropout, regularization, BN or LN related nomalization method
+
+
+
+
